@@ -355,6 +355,10 @@ nav a.active{
          border-radius: 1.5rem;
          overflow: hidden;
      }
+     .portifolio__item-image img{
+        height: 18rem;
+        
+     }
      .portifolio__item h3{
          margin: 1.2rem 0 2rem;
      }
