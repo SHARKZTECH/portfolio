@@ -19,10 +19,10 @@ const Footer=()=>{
             </ul>
 
             <div className="footer__socials">
-            <a href="https://facebook.com"><FaFacebook/></a>
-            <a href="https://instagram.com"><FiInstagram/></a>
-            <a href="https://twitter.com"><IoLogoTwitter/></a>
-            <a href="https://linkedin.com"><FiLinkedin/></a>
+            {/* <a href="https://facebook.com"><FaFacebook/></a> */}
+            {/* <a href="https://instagram.com"><FiInstagram/></a> */}
+            <a href="https://twitter.com/Sharkz_Reigns"><IoLogoTwitter/></a>
+            <a href="https://www.linkedin.com/in/mudogo-moses-554517239/"><FiLinkedin/></a>
             </div>
 
             <div className="footer__copyright">
