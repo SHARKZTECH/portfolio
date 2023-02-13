@@ -47,20 +47,20 @@ const Services=()=>{
 
                 <article className="service">
                     <div className="service__head">
-                        <h3>Content Creation</h3>
+                        <h3>Android Development</h3>
                     </div>
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Web Development</p>
+                            <p>App Design</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Cyber Security</p>
+                            <p>Android Firebase</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Tech</p>
+                            <p>App Development</p>
                         </li>
                     </ul>
                 </article>
