@@ -13,7 +13,7 @@ const Portifolio=()=>{
            <h2>Portifolio</h2>
 
            <div className="container portifolio__container">   
-           <Article image={IMG1} title="CSFreelanceForce" github={'https://github.com/SHARKZTECH'} demo={'https://www.csfreelanceforce.com/'}/>         
+           <Article image={IMG1} title="CSFreelanceForce" github={'https://github.com/SHARKZTECH'} demo={'https://csfreelanceforce-jb9lyj9fs-sharkztech.vercel.app/'}/>         
            <Article image={IMG2} title="Spotify Redesign" github={'https://github.com/SHARKZTECH/spotify-c-v2'} demo={' https://sharkztech.github.io/spotify-c-v2/'}/>                           
            <Article image={IMG3} title="React Recipe App" github={'https://github.com/SHARKZTECH/redux4-react-recpie-v2'} demo={'https://sharkztech.github.io/redux4-react-recpie-v2/'}/>         
            <Article image={IMG4} title={"NFT MarketPlace"} github={"https://github.com/SHARKZTECH/lp"} demo={'https://sharkztech.github.io/lp/'}/>         
